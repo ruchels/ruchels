@@ -356,5 +356,56 @@
 })()
 ```
 
+## CONNECT WITH ME
+
+```aura width=132 height=44 link="https://www.linkedin.com/in/ruchel-afwa-mabrur-05a082400/" inline align=center
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/linkedin/0A66C2"
+  text="LinkedIn"
+  backgroundColor="#071B2D"
+  textColor="#FFFFFF"
+  width={132}
+  height={44}
+  iconSize={20}
+/>
+```
+
+```aura width=138 height=44 link="https://www.instagram.com/3004.ramm" inline align=center
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/instagram/FF0069"
+  text="Instagram"
+  backgroundColor="#35091D"
+  textColor="#FFFFFF"
+  width={138}
+  height={44}
+  iconSize={20}
+/>
+```
+
+```aura width=115 height=44 link="https://www.tiktok.com/@raizel.id" inline align=center
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/tiktok/FFFFFF"
+  text="TikTok"
+  backgroundColor="#141414"
+  textColor="#FFFFFF"
+  width={115}
+  height={44}
+  iconSize={20}
+/>
+```
+
+```aura width=112 height=44 link="mailto:ruchelafwa@gmail.com" inline align=center
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/gmail/EA4335"
+  text="Email"
+  backgroundColor="#350D0D"
+  textColor="#FFFFFF"
+  width={112}
+  height={44}
+  iconSize={20}
+/>
+```
+
+
 <br>
 <p align="center"><sub>𝗉𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 <a href="https://github.com/collectioneur/readme-aura">𝗋𝖾𝖺𝖽𝗆𝖾-𝖺𝗎𝗋𝖺</a></sub></p>
