@@ -1,34 +1,63 @@
 # Hi, I'm RaizeL 👋
 
-I'm **Ruchel Afwa Mabrur**, an Information Technology student at **Universitas Internasional Batam (UIB), Indonesia**. I enjoy building web applications, exploring cybersecurity, and experimenting with Python, AI, and automation.
+I'm **Ruchel Afwa Mabrur**, an Information Technology student at **Universitas Internasional Batam (UIB)**, based in Batam, Indonesia. I build digital systems and explore the intersection of web development, cybersecurity, and artificial intelligence.
+
+## About Me
+
+- Information Technology student at Universitas Internasional Batam (2026–Present).
+- Graduate of Teknik Komputer dan Jaringan, SMKN 4 Tanjungpinang (2026).
+- 2nd Place, LKS Cyber Security 2026 — Provincial Level.
+- Interested in building useful software, understanding system security, and experimenting with AI.
 
 ## Skills & Interests
 
-### Development & Systems
-- **Web Development** — Building web applications with HTML, CSS, JavaScript, and modern web technologies.
-- **Programming** — Python, Rust, C, JavaScript, HTML, and CSS.
-- **Cybersecurity** — Exploring application security, network security, and digital forensics.
-- **Networking & Infrastructure** — Network cabling, MikroTik configuration, and server fundamentals.
-- **System Administration** — Managing and maintaining operating systems and system environments.
+### Development & Programming
+`Python` · `Rust` · `C` · `JavaScript` · `TypeScript` · `HTML` · `CSS` · `React` · `Next.js`
 
-### AI & Digital Content
-- **AI Tools** — Proficient in using AI tools for research, productivity, and creative workflows.
-- **AI Media Creation** — Creating images and videos with AI-powered tools.
-- **Content Creation** — TikTok streaming and digital content production.
+### Cybersecurity & Infrastructure
+- Cybersecurity and security experimentation.
+- Networking, network cabling, MikroTik, and server fundamentals.
+- System administration.
+- Exploring web exploitation, cryptography, digital forensics, reverse engineering, OSINT, and steganography.
+
+### AI & Creative Technology
+- AI tools for research, productivity, and development workflows.
+- AI-assisted image and video creation.
+- AI agents and personal assistant experimentation.
+- TikTok streaming and content creation.
 
 ### Other Interests
-- **Trading** — Trading XAUUSD using the BRG method with a 1:2 risk-to-reward target.
-- **Gaming** — Gaming, chess, and exploring horror games.
+- XAUUSD trading using the BRG method, with a 1:2 risk-to-reward target.
+- Gaming, chess, and exploring horror games.
 
 ## Selected Projects
 
-- **SIMANTAP** — A website project for Kantor Imigrasi Kelas I TPI Tanjungpinang.
-- **BAP Online** — An online workflow project using Google Apps Script, Google Sheets, and Fonnte.
-- **Raizel AI** — A personal AI assistant project built with Python.
+| Project | Description | Technologies |
+|---|---|---|
+| **Raizel AI** | Experimental AI-powered software development assistant focused on project context, code exploration, and controlled file operations. | Next.js, React, TypeScript, OpenAI SDK |
+| **BAP Online** | Administrative workflow system with registration numbering, status tracking, and notifications. | JavaScript, HTML, CSS, Google Apps Script, Sheets, Fonnte |
+| **SIMANTAP** | Internal digital system developed for administrative workflows at Kantor Imigrasi Kelas I TPI Tanjungpinang. | JavaScript, HTML, CSS, Google Apps Script |
+| **Apex Breacher** | Cybersecurity experiment applying security techniques and scripting. | Cybersecurity, Scripting |
+| **Nebula Studio** | Web and creative development exploration. | JavaScript, HTML, CSS |
+| **Raizel Dodge** | Browser game experiment exploring canvas rendering and game logic. | JavaScript, HTML Canvas |
+| **Snake.py** | Snake game implementation exploring game loops and modular logic. | Python |
+| **Raizel Calculator** | Calculator project exploring expression parsing and calculation logic. | Python, JavaScript |
 
-## Currently Exploring
+**Project repositories:** [Raizel AI](https://github.com/ruchels/raizel-ai) · [BAP Online](https://github.com/ruchels/bap-online-inteldakimtpi)
 
-`Python` · `Rust` · `C` · `HTML` · `CSS` · `JavaScript` · `Cybersecurity` · `Networking` · `MikroTik` · `System Administration` · `AI Creation`
+## Education & Achievement
+
+- **Universitas Internasional Batam** — Teknologi Informasi, 2026–Present.
+- **SMKN 4 Tanjungpinang** — Teknik Komputer dan Jaringan, graduated 2026.
+- **LKS Cyber Security 2026** — 2nd Place, Provincial Level.
+
+## Connect With Me
+
+- [GitHub](https://github.com/ruchels)
+- [LinkedIn](https://www.linkedin.com/in/ruchel-afwa-mabrur-05a082400)
+- [Instagram](https://www.instagram.com/3004.ramm)
+- [TikTok](https://www.tiktok.com/@raizel.id)
+- [Email](mailto:ruchelafwa@gmail.com)
 
 ---
 
