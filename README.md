@@ -26,17 +26,8 @@
 
 I am an Information Technology student at **Universitas Internasional Batam** who blends **user-centered design**, front-end development, and practical problem solving. My work starts with understanding people and ends with polished interfaces that are accessible, consistent, and easy to use.
 
-## UI/UX Toolkit
-
 <div align="center">
-
-| Design & Research | Front-End | Workflow & Tools |
-|:---:|:---:|:---:|
-| UI Design · Wireframing | React · Next.js | Git · GitHub |
-| Prototyping · Visual Design | TypeScript · JavaScript | Figma · Canva |
-| Responsive Layout · Design Systems | HTML · CSS · Tailwind CSS | VS Code · Vercel |
-| User Flow · Usability | Python · React Native | AI-Assisted Workflows |
-
+  <img src="assets/banners/uiux-toolkit.svg" width="100%" alt="Animated UI/UX toolkit: design and research, front-end development, and workflow tools." />
 </div>
 
 ### Core Skills

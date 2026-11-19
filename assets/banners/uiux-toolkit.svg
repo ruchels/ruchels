@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="430" viewBox="0 0 1080 430" fill="none">
+  <title>UI/UX Toolkit</title>
+  <desc>An animated showcase of Ruchel's design, front-end, and workflow tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="42" y1="18" x2="1038" y2="410" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111126"/><stop offset="1" stop-color="#1E1538"/>
+    </linearGradient>
+    <linearGradient id="purple" x1="75" y1="0" x2="405" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#A78BFA"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+    <linearGradient id="blue" x1="396" y1="0" x2="733" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#38BDF8"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+    <linearGradient id="pink" x1="727" y1="0" x2="1010" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#F472B6"/><stop offset="1" stop-color="#C026D3"/></linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .eyebrow{font:600 13px 'Segoe UI',Arial,sans-serif;letter-spacing:2.7px;fill:#B9A7F5}
+      .title{font:700 36px 'Segoe UI',Arial,sans-serif;letter-spacing:-1px;fill:#F8FAFC}
+      .columnTitle{font:700 17px 'Segoe UI',Arial,sans-serif;fill:#F6F3FF}
+      .item{font:600 12px 'Segoe UI',Arial,sans-serif;fill:#CFCCE0}
+      .tiny{font:11px 'Segoe UI',Arial,sans-serif;fill:#918CA8}
+      .orb{animation:float 3.6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+      .orb2{animation:float 4.3s ease-in-out .8s infinite;transform-box:fill-box;transform-origin:center}
+      .scan{animation:scan 4.5s ease-in-out infinite}
+      .dot{animation:pulse 2.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+      @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+      @keyframes pulse{0%,100%{opacity:.45;transform:scale(.8)}50%{opacity:1;transform:scale(1.25)}}
+      @keyframes scan{0%{transform:translateX(-340px)}50%,100%{transform:translateX(340px)}}
+      @media (prefers-reduced-motion: reduce){.orb,.orb2,.scan,.dot{animation:none}}
+    </style>
+  </defs>
+  <rect x="10" y="10" width="1060" height="410" rx="28" fill="url(#bg)" stroke="#403265" stroke-width="2"/>
+  <circle class="orb" cx="995" cy="58" r="31" fill="#7C3AED" opacity=".10"/><circle cx="995" cy="58" r="15" stroke="#A78BFA" stroke-opacity=".32"/><circle class="dot" cx="995" cy="58" r="4" fill="#C4B5FD" filter="url(#glow)"/>
+  <text x="52" y="58" class="eyebrow">MY CREATIVE STACK</text>
+  <text x="52" y="105" class="title">UI/UX Toolkit</text>
+  <rect x="52" y="121" width="976" height="1" fill="#FFFFFF" opacity=".08"/>
+  <rect class="scan" x="52" y="120" width="150" height="2" rx="1" fill="#A78BFA" opacity=".7"/>
+
+  <g transform="translate(52 150)">
+    <rect width="312" height="224" rx="18" fill="#FFFFFF" fill-opacity=".035" stroke="#A78BFA" stroke-opacity=".16"/>
+    <rect width="312" height="5" rx="2.5" fill="url(#purple)" opacity=".9"/>
+    <circle cx="38" cy="44" r="20" fill="#7C3AED" fill-opacity=".18"/><text x="31" y="50" font-size="20" fill="#C4B5FD">✦</text>
+    <text x="68" y="49" class="columnTitle">Design &amp; Research</text>
+    <line x1="24" y1="74" x2="288" y2="74" stroke="#FFFFFF" stroke-opacity=".07"/>
+    <g transform="translate(24 94)"><rect width="264" height="38" rx="10" fill="#FFFFFF" fill-opacity=".035"/><text x="14" y="24" class="item">UI Design</text><text x="250" y="24" text-anchor="end" class="tiny">Figma</text></g>
+    <g transform="translate(24 138)"><rect width="264" height="38" rx="10" fill="#FFFFFF" fill-opacity=".035"/><text x="14" y="24" class="item">Wireframing</text><text x="250" y="24" text-anchor="end" class="tiny">Flow</text></g>
+    <g transform="translate(24 182)"><rect width="264" height="38" rx="10" fill="#FFFFFF" fill-opacity=".035"/><text x="14" y="24" class="item">Prototype &amp; Systems</text><text x="250" y="24" text-anchor="end" class="tiny">UX</text></g>
+  </g>
+
+  <g transform="translate(384 150)">
+    <rect width="312" height="224" rx="18" fill="#FFFFFF" fill-opacity=".035" stroke="#38BDF8" stroke-opacity=".16"/>
+    <rect width="312" height="5" rx="2.5" fill="url(#blue)" opacity=".9"/>
+    <circle cx="38" cy="44" r="20" fill="#38BDF8" fill-opacity=".12"/><text x="29" y="50" font-family="Segoe UI,Arial" font-size="16" fill="#7DD3FC">&lt;/&gt;</text>
+    <text x="68" y="49" class="columnTitle">Front-End</text>
+    <line x1="24" y1="74" x2="288" y2="74" stroke="#FFFFFF" stroke-opacity=".07"/>
+    <g transform="translate(24 94)"><rect width="264" height="38" rx="10" fill="#FFFFFF" fill-opacity=".035"/><text x="14" y="24" class="item">React / Next.js</text><text x="250" y="24" text-anchor="end" class="tiny">TS</text></g>
+    <g transform="translate(24 138)"><rect width="264" height="38" rx="10" fill="#FFFFFF" fill-opacity=".035"/><text x="14" y="24" class="item">HTML / CSS / JS</text><text x="250" y="24" text-anchor="end" class="tiny">Web</text></g>
+    <g transform="translate(24 182)"><rect width="264" height="38" rx="10" fill="#FFFFFF" fill-opacity=".035"/><text x="14" y="24" class="item">Tailwind / React Native</text><text x="250" y="24" text-anchor="end" class="tiny">Responsive</text></g>
+  </g>
+
+  <g transform="translate(716 150)">
+    <rect width="312" height="224" rx="18" fill="#FFFFFF" fill-opacity=".035" stroke="#F472B6" stroke-opacity=".16"/>
+    <rect width="312" height="5" rx="2.5" fill="url(#pink)" opacity=".9"/>
+    <circle cx="38" cy="44" r="20" fill="#EC4899" fill-opacity=".12"/><text x="29" y="50" font-size="19" fill="#F9A8D4">⌘</text>
+    <text x="68" y="49" class="columnTitle">Workflow &amp; Tools</text>
+    <line x1="24" y1="74" x2="288" y2="74" stroke="#FFFFFF" stroke-opacity=".07"/>
+    <g transform="translate(24 94)"><rect width="264" height="38" rx="10" fill="#FFFFFF" fill-opacity=".035"/><text x="14" y="24" class="item">Git / GitHub</text><text x="250" y="24" text-anchor="end" class="tiny">VCS</text></g>
+    <g transform="translate(24 138)"><rect width="264" height="38" rx="10" fill="#FFFFFF" fill-opacity=".035"/><text x="14" y="24" class="item">VS Code / Vercel</text><text x="250" y="24" text-anchor="end" class="tiny">Ship</text></g>
+    <g transform="translate(24 182)"><rect width="264" height="38" rx="10" fill="#FFFFFF" fill-opacity=".035"/><text x="14" y="24" class="item">Canva / AI Tools</text><text x="250" y="24" text-anchor="end" class="tiny">Create</text></g>
+  </g>
+  <text x="52" y="404" class="tiny">THINK IN SYSTEMS  ·  BUILD WITH EMPATHY  ·  ITERATE WITH PURPOSE</text>
+</svg>
