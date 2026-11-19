@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="220" viewBox="0 0 620 220" role="img" aria-labelledby="title desc">
+  <title id="title">Creative technology pulse</title>
+  <desc id="desc">A softly glowing animated waveform connecting design, code, and ideas.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#19102b"/></linearGradient>
+    <linearGradient id="pulse" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#67e8f9"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#fb7185"/></linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#c4b5fd" stroke-opacity=".08"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="618" height="218" rx="20" fill="url(#bg)" stroke="#a78bfa" stroke-opacity=".28"/>
+  <rect x="1" y="1" width="618" height="218" rx="20" fill="url(#grid)"/>
+  <g fill="none" stroke="url(#pulse)" stroke-linecap="round">
+    <path d="M42 110H578" stroke-width="2" opacity=".24"/>
+    <path d="M42 110H130L153 110L168 77L188 145L209 93L225 110H290L310 110L328 60L352 158L374 85L393 110H458L477 110L495 72L514 140L535 100L550 110H578" stroke-width="3" filter="url(#glow)" stroke-dasharray="720" stroke-dashoffset="720">
+      <animate attributeName="stroke-dashoffset" values="720;0;0" dur="4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g fill="#fff" filter="url(#glow)">
+    <circle cx="168" cy="77" r="4"><animate attributeName="opacity" values=".35;1;.35" dur="1.7s" repeatCount="indefinite"/></circle>
+    <circle cx="328" cy="60" r="5"><animate attributeName="opacity" values="1;.35;1" dur="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="495" cy="72" r="4"><animate attributeName="opacity" values=".35;1;.35" dur="1.9s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="310" y="177" text-anchor="middle" fill="#e9d5ff" font-family="monospace" font-size="13" letter-spacing="4">DESIGN · CODE · CREATE</text>
+  <text x="310" y="198" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="9" letter-spacing="2">IDEAS IN MOTION</text>
+</svg>

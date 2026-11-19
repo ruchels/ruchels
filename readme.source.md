@@ -3,17 +3,19 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/ruchels.png" width="150" height="150" alt="Ruchel Afwa Mabrur" />
 
-  # Hi, I'm Ruchel Afwa Mabrur
+# Hi, I'm Ruchel Afwa Mabrur
 
-  ### UI/UX Designer · Front-End Developer · Information Technology Student
+### UI/UX Designer · Front-End Developer · Information Technology Student
 
-  <strong>Batam, Indonesia</strong> · Crafting useful, intuitive, and visually polished digital experiences.
+<strong>Batam, Indonesia</strong> · Crafting useful, intuitive, and visually polished digital experiences.
 
-  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-seaside--ruchel.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://seaside-ruchel.vercel.app)
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruchel-afwa-mabrur-05a082400/)
-  [![Email](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruchelafwa@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-OPEN-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://seaside-ruchel.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruchel-afwa-mabrur-05a082400/)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruchelafwa@gmail.com)
+
+<img src="assets/animations/creative-pulse.svg" width="620" alt="Animated creative technology pulse" />
+
 </div>
 
 <img src="assets/dividers/spectrum.svg" width="100%" alt="" />
@@ -74,7 +76,7 @@ A digital administrative workflow for registration numbering, status tracking, n
 **Stack:** JavaScript · HTML · CSS · Google Apps Script
 
 [![View Project](https://img.shields.io/badge/VIEW_LIVE-7C3AED?style=for-the-badge)](https://bap-online-inteldakimtpi.vercel.app)
-[![View Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/ruchels/bap-online-inteldakimtpi)
+[![View Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/ruchels/bap-online-inteldakimtpI)
 
 ---
 
