@@ -56,7 +56,7 @@ A digital administrative workflow for registration numbering, status tracking, n
 **Stack:** JavaScript · HTML · CSS · Google Apps Script
 
 [![View Project](https://img.shields.io/badge/VIEW_LIVE-7C3AED?style=for-the-badge)](https://bap-online-inteldakimtpi.vercel.app)
-[![View Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge\&logo=github)](https://github.com/ruchels/bap-online-inteldakimtpI)
+[![View Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge\&logo=github)](https://github.com/ruchels/bap-online-inteldakimtpi)
 
 ***
 
@@ -112,6 +112,14 @@ I also explore cybersecurity, networking, system administration, AI-assisted wor
 [![Instagram](https://img.shields.io/badge/Instagram-3004.ramm-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/3004.ramm)
 [![TikTok](https://img.shields.io/badge/TikTok-raizel.id-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)](https://www.tiktok.com/@raizel.id)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ruchelafwa@gmail.com)
+
+</div>
+
+## Open to Collaboration
+
+I'm open to collaborating on thoughtful web projects, UI/UX design, and accessible front-end experiences. If you have an idea or opportunity in mind, feel free to reach out via [email](mailto:ruchelafwa@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ruchel-afwa-mabrur-05a082400/).
+
+<div align="center">
 
 <sub>Designed with intention · Built with purpose · Always learning</sub>
 
