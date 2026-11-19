@@ -30,16 +30,9 @@ I am an Information Technology student at **Universitas Internasional Batam** wh
   <img src="assets/banners/uiux-toolkit.svg" width="100%" alt="Animated UI/UX toolkit: design and research, front-end development, and workflow tools." />
 </div>
 
-### Core Skills
-
-| Skill | Proficiency |
-|---|:---:|
-| UI/UX Design | ████████░░ 80% |
-| Figma & Visual Design | ███████░░░ 75% |
-| Responsive Web Design | █████████░ 85% |
-| React / Next.js | ███████░░░ 70% |
-| HTML / CSS / JavaScript | █████████░ 85% |
-| Prototyping | ███████░░░ 75% |
+<div align="center">
+  <img src="assets/banners/core-skills.svg" width="100%" alt="Animated core skill meters: UI/UX Design 80%, Figma and Visual Design 75%, Responsive Web Design 85%, React and Next.js 70%, HTML, CSS and JavaScript 85%, and Prototyping 75%." />
+</div>
 
 ## Featured Projects
 
