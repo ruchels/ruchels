@@ -2,11 +2,17 @@
   <img src="assets/banners/raizel-hero.svg" width="100%" alt="RaizeL profile banner" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/ruchels.png" width="132" height="132" alt="RaizeL GitHub avatar" />
-  <br/>
-  <img src="assets/animations/raizel-orbit.svg" width="300" alt="RaizeL orbit artwork" />
-</div>
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="middle" width="190">
+      <img src="https://github.com/ruchels.png" width="156" height="156" alt="Personal profile photo" />
+      <br/><sub>PERSONAL AVATAR</sub>
+    </td>
+    <td align="center" valign="middle">
+      <img src="assets/animations/raizel-orbit.svg" width="480" alt="Animated RaizeL reactor orbit" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 ### RaizeL
