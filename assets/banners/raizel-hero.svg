@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10101c"/><stop offset=".55" stop-color="#171329"/><stop offset="1" stop-color="#081e2a"/></linearGradient>
+ <linearGradient id="line" x2="1"><stop stop-color="#a78bfa"/><stop offset=".52" stop-color="#67e8f9"/><stop offset="1" stop-color="#fb7185"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#8b5cf6" stop-opacity=".34"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#b8b3d8" stroke-opacity=".09"/></pattern>
+ <filter id="blur"><feGaussianBlur stdDeviation="24"/></filter>
+</defs>
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/><rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+<circle cx="940" cy="145" r="220" fill="url(#glow)" filter="url(#blur)"/>
+<path d="M720 0L1030 360M880 0L1190 360M1040 0L1350 360" stroke="url(#line)" stroke-opacity=".24" stroke-width="2"/>
+<g fill="none" stroke="url(#line)" stroke-width="1.4" opacity=".8"><path d="M760 85C870 18 980 25 1080 105S1160 235 1050 290 820 315 760 225 650 150 760 85Z"/><path d="M805 102C900 48 1000 57 1060 125S1115 220 1025 260 850 275 800 210 710 155 805 102Z"/></g>
+<g fill="#d8d4ef" opacity=".8"><circle cx="760" cy="85" r="3"/><circle cx="1080" cy="105" r="3"/><circle cx="1050" cy="290" r="3"/><circle cx="760" cy="225" r="3"/></g>
+<text x="78" y="106" fill="#a5f3fc" font-family="monospace" font-size="15" letter-spacing="5">INDEPENDENT DEVELOPER / BATAM, ID</text>
+<text x="74" y="190" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="800" letter-spacing="-3">RAIZEL</text>
+<text x="80" y="236" fill="#c4b5fd" font-family="Arial,Helvetica,sans-serif" font-size="24" letter-spacing="2">CODE · SECURITY · CREATIVE TECHNOLOGY</text>
+<path d="M80 270H400" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+<text x="80" y="310" fill="#9ca3af" font-family="monospace" font-size="14">LEARN FAST. BUILD USEFUL THINGS. STAY CURIOUS.</text>
+<text x="1115" y="320" fill="#94a3b8" font-family="monospace" font-size="12" text-anchor="end">001 / PROFILE</text>
+</svg>
