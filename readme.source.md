@@ -15,17 +15,20 @@
 </table>
 
 <div align="center">
-### RaizeL
-**Information Technology Student · Cybersecurity Enthusiast · Developer**
-
-[![GitHub](https://img.shields.io/badge/GitHub-ruchels-181717?style=for-the-badge&logo=github)](https://github.com/ruchels)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ruchel-afwa-mabrur-05a082400/)
-[![Instagram](https://img.shields.io/badge/Instagram-3004.ramm-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/3004.ramm)
-[![TikTok](https://img.shields.io/badge/TikTok-raizel.id-111111?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@raizel.id)
+  <h1>RAIZEL</h1>
+  <p><strong>IT STUDENT&nbsp; • &nbsp;CYBERSECURITY&nbsp; • &nbsp;DEVELOPER</strong></p>
+  <p><sub>Building things. Breaking assumptions. Securing systems.</sub></p>
+  <p>
+    <a href="https://github.com/ruchels"><img src="https://img.shields.io/badge/GITHUB-ruchels-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/ruchel-afwa-mabrur-05a082400/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="https://www.instagram.com/3004.ramm"><img src="https://img.shields.io/badge/INSTAGRAM-3004.ramm-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" /></a>
+    <a href="https://www.tiktok.com/@raizel.id"><img src="https://img.shields.io/badge/TIKTOK-raizel.id-111111?style=for-the-badge&logo=tiktok" alt="TikTok" /></a>
+  </p>
 </div>
 
 <img src="assets/dividers/spectrum.svg" width="100%" alt="" />
-## My GitHub Dashboard
+
+## ◈ GITHUB DASHBOARD
 
 
 
@@ -317,7 +320,7 @@
 
 I'm **Ruchel Afwa Mabrur**, an Information Technology student at **Universitas Internasional Batam (UIB)**, based in Batam, Indonesia. I build digital systems and explore the intersection of web development, cybersecurity, and artificial intelligence.
 
-## About Me
+## ◈ ABOUT ME
 
 I'm an Information Technology student at **Universitas Internasional Batam (UIB)**, based in Batam, Indonesia. I enjoy building practical software, exploring cybersecurity, and experimenting with AI-assisted workflows.
 
@@ -327,7 +330,7 @@ I'm an Information Technology student at **Universitas Internasional Batam (UIB)
 - 2nd Place, LKS Cyber Security 2026 — Provincial Level.
 - Interested in building useful software, understanding system security, and experimenting with AI.
 
-## Skills & Interests
+## ◈ SKILLS & INTERESTS
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,rust,c,js,ts,html,css,react,nextjs,linux,bash,git&theme=dark" alt="Technology skills" />
@@ -353,7 +356,7 @@ I'm an Information Technology student at **Universitas Internasional Batam (UIB)
 - XAUUSD trading using the BRG method, with a 1:2 risk-to-reward target.
 - Gaming, chess, and exploring horror games.
 
-## Selected Projects
+## ◈ SELECTED PROJECTS
 
 
 | Project | Description | Technologies |
@@ -369,13 +372,13 @@ I'm an Information Technology student at **Universitas Internasional Batam (UIB)
 
 **Project repositories:** [Raizel AI](https://github.com/ruchels/raizel-ai) · [BAP Online](https://github.com/ruchels/bap-online-inteldakimtpi)
 
-## Education & Achievement
+## ◈ EDUCATION & ACHIEVEMENTS
 
 - **Universitas Internasional Batam** — Teknologi Informasi, 2026–Present.
 - **SMKN 4 Tanjungpinang** — Teknik Komputer dan Jaringan, graduated 2026.
 - **LKS Cyber Security 2026** — 2nd Place, Provincial Level.
 
-## Connect With Me
+## ◈ CONNECT WITH ME
 
 - [GitHub](https://github.com/ruchels)
 - [LinkedIn](https://www.linkedin.com/in/ruchel-afwa-mabrur-05a082400)
