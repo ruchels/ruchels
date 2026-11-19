@@ -1,59 +1,104 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="460" viewBox="0 0 1080 460" fill="none">
-  <title>Core Skills</title>
-  <desc>Animated skill meters for UI/UX design, Figma and visual design, responsive web design, React and Next.js, HTML CSS JavaScript, and prototyping.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="420" viewBox="0 0 1080 420" fill="none">
+  <title>Technical Domains &amp; Competencies — Ruchel (RaizeL)</title>
+  <desc>Overview of Ruchel's technical focus areas across software engineering, defensive cybersecurity, systems infrastructure, and AI tooling.</desc>
   <defs>
-    <linearGradient id="bg" x1="45" y1="16" x2="1025" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#111126"/><stop offset="1" stop-color="#201537"/></linearGradient>
-    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#A78BFA"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
-    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#67E8F9"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
-    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F9A8D4"/><stop offset="1" stop-color="#C026D3"/></linearGradient>
-    <linearGradient id="mint" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6EE7B7"/><stop offset="1" stop-color="#0D9488"/></linearGradient>
-    <filter id="glow" x="-50%" y="-200%" width="200%" height="500%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="m-bg" x1="45" y1="16" x2="1025" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0e101f"/><stop offset="1" stop-color="#18132d"/>
+    </linearGradient>
+    <linearGradient id="c-blue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+    <linearGradient id="c-purple" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#c084fc"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+    <linearGradient id="c-cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#0284c7"/></linearGradient>
+    <linearGradient id="c-emerald" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#34d399"/><stop offset="1" stop-color="#059669"/></linearGradient>
+    <filter id="m-glow" x="-50%" y="-200%" width="200%" height="500%">
+      <feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
     <style>
-      .eyebrow{font:600 13px 'Segoe UI',Arial,sans-serif;letter-spacing:2.7px;fill:#B9A7F5}
-      .title{font:700 35px 'Segoe UI',Arial,sans-serif;letter-spacing:-.8px;fill:#F8FAFC}
-      .skill{font:600 15px 'Segoe UI',Arial,sans-serif;fill:#E8E5F4}
-      .percent{font:700 14px 'Segoe UI',Arial,sans-serif;fill:#D8D2EA}
-      .caption{font:12px 'Segoe UI',Arial,sans-serif;fill:#938DAA}
-      .bar{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 1.8s cubic-bezier(.22,.8,.25,1) forwards}
-      .d2{animation-delay:.15s}.d3{animation-delay:.3s}.d4{animation-delay:.45s}.d5{animation-delay:.6s}.d6{animation-delay:.75s}
-      .spark{animation:pulse 2.8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
-      .orbit{animation:rotate 16s linear infinite;transform-box:fill-box;transform-origin:center}
-      @keyframes draw{to{stroke-dashoffset:0}}
-      @keyframes pulse{0%,100%{opacity:.45;transform:scale(.8)}50%{opacity:1;transform:scale(1.2)}}
-      @keyframes rotate{to{transform:rotate(360deg)}}
-      @media (prefers-reduced-motion: reduce){.bar,.spark,.orbit{animation:none}.bar{stroke-dashoffset:0}}
+      .m-eyebrow { font: 600 13px 'Segoe UI', Arial, sans-serif; letter-spacing: 2.7px; fill: #a78bfa; }
+      .m-title { font: 700 35px 'Segoe UI', Arial, sans-serif; letter-spacing: -.8px; fill: #f8fafc; }
+      .m-caption { font: 14px 'Segoe UI', Arial, sans-serif; fill: #94a3b8; }
+      .m-card-title { font: 700 16px 'Segoe UI', Arial, sans-serif; fill: #f1f5f9; }
+      .m-pill { font: 600 12px 'Segoe UI', Arial, sans-serif; fill: #cbd5e1; }
+      .m-badge { font: 600 10.5px monospace; letter-spacing: 1.2px; }
     </style>
   </defs>
-  <rect x="10" y="10" width="1060" height="440" rx="28" fill="url(#bg)" stroke="#403265" stroke-width="2"/>
-  <circle cx="1000" cy="61" r="37" fill="#7C3AED" opacity=".1"/><circle class="orbit" cx="1000" cy="61" r="26" stroke="#A78BFA" stroke-opacity=".35" stroke-dasharray="3 7"/><circle class="spark" cx="1000" cy="61" r="5" fill="#C4B5FD" filter="url(#glow)"/>
-  <text x="52" y="58" class="eyebrow">A SNAPSHOT OF WHAT I DO</text>
-  <text x="52" y="103" class="title">Core Skills</text>
-  <text x="52" y="129" class="caption">Growing through practice, projects, and a little bit of curiosity.</text>
-  <line x1="52" y1="151" x2="1028" y2="151" stroke="#FFFFFF" stroke-opacity=".09"/>
 
-  <g transform="translate(52 178)">
-    <text class="skill" y="0">UI/UX Design</text><text class="percent" x="452" y="0" text-anchor="end">80%</text>
-    <rect y="17" width="452" height="8" rx="4" fill="#FFFFFF" fill-opacity=".09"/><rect class="bar" y="17" width="361.6" height="8" rx="4" fill="url(#violet)" pathLength="1" stroke="url(#violet)" stroke-width="0"/><circle class="spark" cx="361.6" cy="21" r="4" fill="#C4B5FD" filter="url(#glow)"/>
+  <rect x="10" y="10" width="1060" height="400" rx="24" fill="url(#m-bg)" stroke="#3b2b54" stroke-width="2"/>
+
+  <!-- Header -->
+  <g transform="translate(52 50)">
+    <text class="m-eyebrow">PRACTICAL DOMAINS &amp; FOCUS</text>
+    <text y="38" class="m-title">Technical Competency Matrix</text>
+    <text y="64" class="m-caption">Disciplines honed through platform engineering, vocational networking (TKJ), and competitive cyber security.</text>
   </g>
-  <g transform="translate(576 178)">
-    <text class="skill" y="0">Figma &amp; Visual Design</text><text class="percent" x="452" y="0" text-anchor="end">75%</text>
-    <rect y="17" width="452" height="8" rx="4" fill="#FFFFFF" fill-opacity=".09"/><rect class="bar d2" y="17" width="339" height="8" rx="4" fill="url(#pink)" pathLength="1" stroke="url(#pink)" stroke-width="0"/><circle class="spark" cx="339" cy="21" r="4" fill="#F9A8D4" filter="url(#glow)"/>
+
+  <!-- 4 Pillars Grid -->
+  <g transform="translate(52 145)">
+    <!-- Column 1: Software Development -->
+    <g transform="translate(0 0)">
+      <rect width="232" height="235" rx="16" fill="#13172c" stroke="#38bdf8" stroke-opacity=".25" stroke-width="1.2"/>
+      <rect width="232" height="4" rx="2" fill="url(#c-blue)"/>
+      <text x="20" y="36" class="m-badge" fill="#38bdf8">DOMAIN 01</text>
+      <text x="20" y="60" class="m-card-title">Software Dev</text>
+      <line x1="20" y1="74" x2="212" y2="74" stroke="#ffffff" stroke-opacity=".08"/>
+      <g transform="translate(20 90)">
+        <text class="m-pill" y="0">✦ Full-Stack Next.js 16</text>
+        <text class="m-pill" y="26">✦ TypeScript &amp; React 19</text>
+        <text class="m-pill" y="52">✦ RESTful APIs &amp; SQLite</text>
+        <text class="m-pill" y="78">✦ State Architecture</text>
+        <text class="m-pill" y="104">✦ Python &amp; Automation</text>
+        <text class="m-pill" y="130">✦ C / Rust (Exploring)</text>
+      </g>
+    </g>
+
+    <!-- Column 2: Defensive Cybersecurity -->
+    <g transform="translate(252 0)">
+      <rect width="232" height="235" rx="16" fill="#13172c" stroke="#c084fc" stroke-opacity=".25" stroke-width="1.2"/>
+      <rect width="232" height="4" rx="2" fill="url(#c-purple)"/>
+      <text x="20" y="36" class="m-badge" fill="#c084fc">DOMAIN 02</text>
+      <text x="20" y="60" class="m-card-title">Cyber Defense</text>
+      <line x1="20" y1="74" x2="212" y2="74" stroke="#ffffff" stroke-opacity=".08"/>
+      <g transform="translate(20 90)">
+        <text class="m-pill" y="0">🛡️ SOC &amp; SIEM Triaging</text>
+        <text class="m-pill" y="26">🛡️ Network Forensics</text>
+        <text class="m-pill" y="52">🛡️ Wireshark Inspection</text>
+        <text class="m-pill" y="78">🛡️ OWASP Remediation</text>
+        <text class="m-pill" y="104">🛡️ Range Lab Defense</text>
+        <text class="m-pill" y="130">🛡️ LKS Cyber Security 2nd</text>
+      </g>
+    </g>
+
+    <!-- Column 3: Networks & Systems -->
+    <g transform="translate(504 0)">
+      <rect width="232" height="235" rx="16" fill="#13172c" stroke="#22d3ee" stroke-opacity=".25" stroke-width="1.2"/>
+      <rect width="232" height="4" rx="2" fill="url(#c-cyan)"/>
+      <text x="20" y="36" class="m-badge" fill="#22d3ee">DOMAIN 03</text>
+      <text x="20" y="60" class="m-card-title">Networks &amp; Systems</text>
+      <line x1="20" y1="74" x2="212" y2="74" stroke="#ffffff" stroke-opacity=".08"/>
+      <g transform="translate(20 90)">
+        <text class="m-pill" y="0">⚡ Linux Server Hardening</text>
+        <text class="m-pill" y="26">⚡ MikroTik RouterOS</text>
+        <text class="m-pill" y="52">⚡ TCP/IP &amp; VLAN Routing</text>
+        <text class="m-pill" y="78">⚡ Docker Sandboxing</text>
+        <text class="m-pill" y="104">⚡ Bash &amp; Shell Scripting</text>
+        <text class="m-pill" y="130">⚡ TKJ Foundation (Vocational)</text>
+      </g>
+    </g>
+
+    <!-- Column 4: AI & Product Design -->
+    <g transform="translate(756 0)">
+      <rect width="232" height="235" rx="16" fill="#13172c" stroke="#34d399" stroke-opacity=".25" stroke-width="1.2"/>
+      <rect width="232" height="4" rx="2" fill="url(#c-emerald)"/>
+      <text x="20" y="36" class="m-badge" fill="#34d399">DOMAIN 04</text>
+      <text x="20" y="60" class="m-card-title">AI &amp; Product Design</text>
+      <line x1="20" y1="74" x2="212" y2="74" stroke="#ffffff" stroke-opacity=".08"/>
+      <g transform="translate(20 90)">
+        <text class="m-pill" y="0">◈ AI-Assisted Workflows</text>
+        <text class="m-pill" y="26">◈ Context Tool Architecture</text>
+        <text class="m-pill" y="52">◈ High-Fidelity UI/UX</text>
+        <text class="m-pill" y="78">◈ Design Systems &amp; SVG</text>
+        <text class="m-pill" y="104">◈ Web Audio Sound Design</text>
+        <text class="m-pill" y="130">◈ Accessibility (a11y)</text>
+      </g>
+    </g>
   </g>
-  <g transform="translate(52 256)">
-    <text class="skill" y="0">Responsive Web Design</text><text class="percent" x="452" y="0" text-anchor="end">85%</text>
-    <rect y="17" width="452" height="8" rx="4" fill="#FFFFFF" fill-opacity=".09"/><rect class="bar d3" y="17" width="384.2" height="8" rx="4" fill="url(#cyan)" pathLength="1" stroke="url(#cyan)" stroke-width="0"/><circle class="spark" cx="384.2" cy="21" r="4" fill="#67E8F9" filter="url(#glow)"/>
-  </g>
-  <g transform="translate(576 256)">
-    <text class="skill" y="0">React / Next.js</text><text class="percent" x="452" y="0" text-anchor="end">70%</text>
-    <rect y="17" width="452" height="8" rx="4" fill="#FFFFFF" fill-opacity=".09"/><rect class="bar d4" y="17" width="316.4" height="8" rx="4" fill="url(#violet)" pathLength="1" stroke="url(#violet)" stroke-width="0"/><circle class="spark" cx="316.4" cy="21" r="4" fill="#C4B5FD" filter="url(#glow)"/>
-  </g>
-  <g transform="translate(52 334)">
-    <text class="skill" y="0">HTML / CSS / JavaScript</text><text class="percent" x="452" y="0" text-anchor="end">85%</text>
-    <rect y="17" width="452" height="8" rx="4" fill="#FFFFFF" fill-opacity=".09"/><rect class="bar d5" y="17" width="384.2" height="8" rx="4" fill="url(#mint)" pathLength="1" stroke="url(#mint)" stroke-width="0"/><circle class="spark" cx="384.2" cy="21" r="4" fill="#6EE7B7" filter="url(#glow)"/>
-  </g>
-  <g transform="translate(576 334)">
-    <text class="skill" y="0">Prototyping</text><text class="percent" x="452" y="0" text-anchor="end">75%</text>
-    <rect y="17" width="452" height="8" rx="4" fill="#FFFFFF" fill-opacity=".09"/><rect class="bar d6" y="17" width="339" height="8" rx="4" fill="url(#pink)" pathLength="1" stroke="url(#pink)" stroke-width="0"/><circle class="spark" cx="339" cy="21" r="4" fill="#F9A8D4" filter="url(#glow)"/>
-  </g>
-  <text x="52" y="421" class="caption">SKILLS IN PROGRESS  ·  BUILT ONE PROJECT AT A TIME</text>
 </svg>

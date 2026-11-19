@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="220" viewBox="0 0 1080 220" fill="none">
+  <title>Featured Projects — Ruchel (RaizeL)</title>
+  <desc>Showcase banner for Ruchel's featured engineering projects including CyberLab-ID, Seaside, Raizel AI, and Sipalarus.</desc>
+  <defs>
+    <linearGradient id="p-bg" x1="40" y1="20" x2="1040" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0a0a14"/><stop offset=".5" stop-color="#141126"/><stop offset="1" stop-color="#090f1d"/>
+    </linearGradient>
+    <linearGradient id="p-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#38bdf8"/><stop offset=".5" stop-color="#a855f7"/><stop offset="1" stop-color="#fb7185"/>
+    </linearGradient>
+    <pattern id="p-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#a855f7" stroke-width="0.7" stroke-opacity="0.08"/>
+    </pattern>
+    <filter id="p-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .p-tag { font: 600 13px 'Segoe UI', Arial, sans-serif; letter-spacing: 2.8px; fill: #c084fc; }
+      .p-title { font: 700 36px 'Segoe UI', Arial, sans-serif; letter-spacing: -1px; fill: #f8fafc; }
+      .p-desc { font: 15px 'Segoe UI', Arial, sans-serif; fill: #94a3b8; }
+      .p-chip { font: 600 12px monospace; fill: #38bdf8; letter-spacing: 1.2px; }
+    </style>
+  </defs>
+
+  <rect x="10" y="10" width="1060" height="200" rx="22" fill="url(#p-bg)" stroke="#382952" stroke-width="1.8"/>
+  <rect x="10" y="10" width="1060" height="200" rx="22" fill="url(#p-grid)"/>
+
+  <!-- Glowing accents -->
+  <circle cx="980" cy="110" r="45" fill="#a855f7" opacity=".06"/>
+  <circle cx="980" cy="110" r="28" stroke="#38bdf8" stroke-opacity=".25" stroke-dasharray="3 6"/>
+  <circle cx="980" cy="110" r="5" fill="#38bdf8" filter="url(#p-glow)"/>
+
+  <!-- Content -->
+  <g transform="translate(54 48)">
+    <text class="p-tag">CODEBASE &amp; ARCHITECTURES</text>
+    <text y="42" class="p-title">Featured Projects</text>
+    <text y="70" class="p-desc">Selected open-source applications, platforms, and tools built with production focus.</text>
+    
+    <g transform="translate(0 102)">
+      <rect width="130" height="28" rx="8" fill="#38bdf8" fill-opacity=".1" stroke="#38bdf8" stroke-opacity=".3"/>
+      <text x="65" y="18" text-anchor="middle" class="p-chip">CYBERLAB-ID</text>
+
+      <rect x="142" y="0" width="105" height="28" rx="8" fill="#a855f7" fill-opacity=".1" stroke="#a855f7" stroke-opacity=".3"/>
+      <text x="194" y="18" text-anchor="middle" class="p-chip" fill="#c084fc">SEASIDE</text>
+
+      <rect x="259" y="0" width="115" height="28" rx="8" fill="#fb7185" fill-opacity=".1" stroke="#fb7185" stroke-opacity=".3"/>
+      <text x="316" y="18" text-anchor="middle" class="p-chip" fill="#fb7185">RAIZEL AI</text>
+
+      <rect x="386" y="0" width="125" height="28" rx="8" fill="#34d399" fill-opacity=".1" stroke="#34d399" stroke-opacity=".3"/>
+      <text x="448" y="18" text-anchor="middle" class="p-chip" fill="#34d399">SIPALARUS</text>
+    </g>
+  </g>
+</svg>

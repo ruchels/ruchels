@@ -20,6 +20,6 @@
     <circle cx="328" cy="60" r="5"><animate attributeName="opacity" values="1;.35;1" dur="2.1s" repeatCount="indefinite"/></circle>
     <circle cx="495" cy="72" r="4"><animate attributeName="opacity" values=".35;1;.35" dur="1.9s" repeatCount="indefinite"/></circle>
   </g>
-  <text x="310" y="177" text-anchor="middle" fill="#e9d5ff" font-family="monospace" font-size="13" letter-spacing="4">DESIGN · CODE · CREATE</text>
-  <text x="310" y="198" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="9" letter-spacing="2">IDEAS IN MOTION</text>
+  <text x="310" y="177" text-anchor="middle" fill="#e9d5ff" font-family="monospace" font-size="13" letter-spacing="4">CODE · DEFENSE · INTELLIGENCE</text>
+  <text x="310" y="198" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="9" letter-spacing="2">BUILDING RESILIENT SYSTEMS</text>
 </svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="470" viewBox="0 0 1080 470" fill="none">
-  <title>About Ruchel — designer, developer, and curious creator</title>
-  <desc>A dark purple animated profile card introducing Ruchel, an IT student who blends user-centered design and front-end development.</desc>
+  <title>About Ruchel Afwa Mabrur (RaizeL) — Software Developer, Cybersecurity &amp; AI Explorer</title>
+  <desc>A dark animated profile card introducing Ruchel (RaizeL), an IT student who blends full-stack software development, defensive cybersecurity, and intelligent systems.</desc>
   <defs>
     <linearGradient id="bg" x1="60" y1="20" x2="1020" y2="450" gradientUnits="userSpaceOnUse">
       <stop stop-color="#111126"/><stop offset="1" stop-color="#211344"/>
@@ -35,48 +35,50 @@
   <circle class="pulse" cx="968" cy="92" r="7" fill="#C4B5FD" filter="url(#glow)"/>
   <path class="spark" d="M1008 63l3 8 8 3-8 3-3 8-3-8-8-3 8-3 3-8z" fill="#67E8F9"/>
   <path class="spark2" d="M914 125l2.5 6.5 6.5 2.5-6.5 2.5-2.5 6.5-2.5-6.5-6.5-2.5 6.5-2.5 2.5-6.5z" fill="#C4B5FD"/>
-  <text x="72" y="72" class="label">A LITTLE ABOUT ME</text>
-  <rect x="72" y="91" width="118" height="3" rx="2" fill="url(#accent)"/>
-  <text x="72" y="151" class="title">Design-minded. Code-driven.</text>
-  <text x="72" y="187" class="body">I'm Ruchel — an IT student at Universitas Internasional Batam,</text>
-  <text x="72" y="212" class="body">bringing thoughtful design and front-end code together to make</text>
-  <text x="72" y="237" class="body">digital experiences feel clear, useful, and delightful.</text>
+  <text x="72" y="72" class="label">PROFILE &amp; PHILOSOPHY</text>
+  <rect x="72" y="91" width="138" height="3" rx="2" fill="url(#accent)"/>
+  <text x="72" y="151" class="title">Engineering Systems. Securing Frontiers.</text>
+  <text x="72" y="187" class="body">I'm Ruchel (RaizeL) — an Information Technology student at Universitas Internasional Batam,</text>
+  <text x="72" y="212" class="body">blending full-stack software development, defensive cybersecurity, and intelligent systems</text>
+  <text x="72" y="237" class="body">to build resilient architectures that are performant, accessible, and secure.</text>
   <g transform="translate(72 278)">
-    <rect width="218" height="112" rx="16" fill="#FFFFFF" fill-opacity=".045" stroke="#FFFFFF" stroke-opacity=".10"/>
-    <circle cx="31" cy="34" r="17" fill="#7C3AED" fill-opacity=".2"/>
-    <text x="24" y="40" font-size="18">✦</text>
-    <text x="58" y="39" class="cardtitle">Thoughtful design</text>
-    <text x="20" y="75" class="cardsub">User flows · Prototypes</text>
-    <text x="20" y="95" class="cardsub">Accessible interfaces</text>
-  </g>
-  <g transform="translate(307 278)">
     <rect width="218" height="112" rx="16" fill="#FFFFFF" fill-opacity=".045" stroke="#FFFFFF" stroke-opacity=".10"/>
     <circle cx="31" cy="34" r="17" fill="#0EA5E9" fill-opacity=".2"/>
     <text x="22" y="40" font-size="17" fill="#7DD3FC">&lt;/&gt;</text>
-    <text x="58" y="39" class="cardtitle">Front-end craft</text>
-    <text x="20" y="75" class="cardsub">React · Next.js · TypeScript</text>
-    <text x="20" y="95" class="cardsub">Responsive by default</text>
+    <text x="58" y="39" class="cardtitle">Software Eng</text>
+    <text x="20" y="75" class="cardsub">Next.js · React · TypeScript</text>
+    <text x="20" y="95" class="cardsub">Full-Stack Architectures</text>
+  </g>
+  <g transform="translate(307 278)">
+    <rect width="218" height="112" rx="16" fill="#FFFFFF" fill-opacity=".045" stroke="#FFFFFF" stroke-opacity=".10"/>
+    <circle cx="31" cy="34" r="17" fill="#7C3AED" fill-opacity=".2"/>
+    <text x="24" y="40" font-size="18" fill="#C4B5FD">🛡</text>
+    <text x="58" y="39" class="cardtitle">Cyber Defense</text>
+    <text x="20" y="75" class="cardsub">Blue Team · Range Labs</text>
+    <text x="20" y="95" class="cardsub">LKS Cyber Security 2nd</text>
   </g>
   <g transform="translate(542 278)">
     <rect width="218" height="112" rx="16" fill="#FFFFFF" fill-opacity=".045" stroke="#FFFFFF" stroke-opacity=".10"/>
     <circle cx="31" cy="34" r="17" fill="#EC4899" fill-opacity=".18"/>
-    <text x="23" y="41" font-size="18">♡</text>
-    <text x="58" y="39" class="cardtitle">Always curious</text>
-    <text x="20" y="75" class="cardsub">Usability · Accessibility</text>
-    <text x="20" y="95" class="cardsub">Learning by building</text>
+    <text x="23" y="41" font-size="18" fill="#F472B6">✦</text>
+    <text x="58" y="39" class="cardtitle">AI &amp; Automation</text>
+    <text x="20" y="75" class="cardsub">Context Tools · LLM Aids</text>
+    <text x="20" y="95" class="cardsub">Controlled Workflows</text>
   </g>
   <g transform="translate(777 278)">
     <rect width="231" height="112" rx="16" fill="#FFFFFF" fill-opacity=".045" stroke="#FFFFFF" stroke-opacity=".10"/>
     <circle cx="31" cy="34" r="17" fill="#14B8A6" fill-opacity=".18"/>
-    <text x="23" y="40" font-size="17">↗</text>
-    <text x="58" y="39" class="cardtitle">Based in Indonesia</text>
-    <text x="20" y="75" class="cardsub">Batam · Open to ideas</text>
-    <text x="20" y="95" class="cardsub">Design with intention</text>
+    <text x="23" y="40" font-size="17" fill="#5EEAD4">⚡</text>
+    <text x="58" y="39" class="cardtitle">Systems &amp; Net</text>
+    <text x="20" y="75" class="cardsub">Linux Hardening · MikroTik</text>
+    <text x="20" y="95" class="cardsub">Docker · Sandboxing</text>
   </g>
   <rect class="shine" x="72" y="425" width="936" height="1" fill="url(#line)"/>
-  <text x="72" y="445" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8D88A7">DESIGN</text>
-  <circle cx="126" cy="441" r="2" fill="#7C3AED"/>
-  <text x="139" y="445" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8D88A7">BUILD</text>
-  <circle cx="187" cy="441" r="2" fill="#38BDF8"/>
-  <text x="200" y="445" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8D88A7">KEEP LEARNING</text>
+  <text x="72" y="445" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8D88A7">DEVELOP</text>
+  <circle cx="134" cy="441" r="2" fill="#38BDF8"/>
+  <text x="147" y="445" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8D88A7">SECURE</text>
+  <circle cx="204" cy="441" r="2" fill="#7C3AED"/>
+  <text x="217" y="445" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8D88A7">AUTOMATE</text>
+  <circle cx="295" cy="441" r="2" fill="#EC4899"/>
+  <text x="308" y="445" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8D88A7">EXPLORE</text>
 </svg>
