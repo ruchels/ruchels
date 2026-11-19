@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300" viewBox="0 0 500 300">
+<defs><radialGradient id="core"><stop stop-color="#f0abfc"/><stop offset=".35" stop-color="#8b5cf6"/><stop offset="1" stop-color="#312e81"/></radialGradient><linearGradient id="ring"><stop stop-color="#67e8f9"/><stop offset=".5" stop-color="#c4b5fd"/><stop offset="1" stop-color="#fb7185"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="12"/></filter></defs>
+<ellipse cx="250" cy="150" rx="115" ry="40" fill="none" stroke="url(#ring)" stroke-width="3" opacity=".8" transform="rotate(-28 250 150)"/>
+<ellipse cx="250" cy="150" rx="115" ry="40" fill="none" stroke="#67e8f9" stroke-width="2" opacity=".65" transform="rotate(48 250 150)"/>
+<ellipse cx="250" cy="150" rx="78" ry="78" fill="#8b5cf6" opacity=".24" filter="url(#g)"/>
+<circle cx="250" cy="150" r="56" fill="url(#core)"/>
+<path d="M220 150h60M250 120v60" stroke="#fff" stroke-opacity=".65" stroke-width="1.5"/>
+<circle cx="250" cy="150" r="92" fill="none" stroke="#a78bfa" stroke-opacity=".2" stroke-dasharray="3 9"/>
+<g fill="#fff"><circle cx="134" cy="91" r="5"/><circle cx="360" cy="207" r="4"/><circle cx="321" cy="61" r="3"/></g>
+<g transform="translate(250 150)"><circle cx="115" cy="0" r="7" fill="#67e8f9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/></circle></g>
+<text x="250" y="278" fill="#c4b5fd" font-family="monospace" font-size="12" text-anchor="middle" letter-spacing="4">CREATIVE SYSTEMS / 01</text>
+</svg>
