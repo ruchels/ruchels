@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="470" viewBox="0 0 1080 470" fill="none">
+  <title>About Ruchel — designer, developer, and curious creator</title>
+  <desc>A dark purple animated profile card introducing Ruchel, an IT student who blends user-centered design and front-end development.</desc>
+  <defs>
+    <linearGradient id="bg" x1="60" y1="20" x2="1020" y2="450" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111126"/><stop offset="1" stop-color="#211344"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="110" y1="90" x2="900" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/><stop offset=".52" stop-color="#7C3AED"/><stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="line" x1="70" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA" stop-opacity="0"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="8" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .label{font:600 14px 'Segoe UI',Arial,sans-serif;letter-spacing:2.4px;fill:#B9A7F5}
+      .title{font:700 43px 'Segoe UI',Arial,sans-serif;letter-spacing:-1.5px;fill:#F8FAFC}
+      .body{font:16px 'Segoe UI',Arial,sans-serif;fill:#C4C1D8}
+      .cardtitle{font:600 16px 'Segoe UI',Arial,sans-serif;fill:#F3F0FF}
+      .cardsub{font:13px 'Segoe UI',Arial,sans-serif;fill:#A7A2BF}
+      .spark{animation:float 3.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+      .spark2{animation:float 4s ease-in-out 1s infinite;transform-box:fill-box;transform-origin:center}
+      .pulse{animation:pulse 2.8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+      .shine{animation:shine 5s ease-in-out infinite}
+      @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+      @keyframes pulse{0%,100%{opacity:.5;transform:scale(.88)}50%{opacity:1;transform:scale(1.12)}}
+      @keyframes shine{0%,100%{opacity:.35}50%{opacity:.9}}
+      @media (prefers-reduced-motion: reduce){.spark,.spark2,.pulse,.shine{animation:none}}
+    </style>
+  </defs>
+  <rect x="10" y="10" width="1060" height="450" rx="28" fill="url(#bg)" stroke="#403265" stroke-width="2"/>
+  <circle cx="968" cy="92" r="92" fill="#7C3AED" opacity=".09"/>
+  <circle cx="968" cy="92" r="59" stroke="#A78BFA" stroke-opacity=".22"/>
+  <circle cx="968" cy="92" r="35" stroke="#38BDF8" stroke-opacity=".25"/>
+  <circle class="pulse" cx="968" cy="92" r="7" fill="#C4B5FD" filter="url(#glow)"/>
+  <path class="spark" d="M1008 63l3 8 8 3-8 3-3 8-3-8-8-3 8-3 3-8z" fill="#67E8F9"/>
+  <path class="spark2" d="M914 125l2.5 6.5 6.5 2.5-6.5 2.5-2.5 6.5-2.5-6.5-6.5-2.5 6.5-2.5 2.5-6.5z" fill="#C4B5FD"/>
+  <text x="72" y="72" class="label">A LITTLE ABOUT ME</text>
+  <rect x="72" y="91" width="118" height="3" rx="2" fill="url(#accent)"/>
+  <text x="72" y="151" class="title">Design-minded. Code-driven.</text>
+  <text x="72" y="187" class="body">I'm Ruchel — an IT student at Universitas Internasional Batam,</text>
+  <text x="72" y="212" class="body">bringing thoughtful design and front-end code together to make</text>
+  <text x="72" y="237" class="body">digital experiences feel clear, useful, and delightful.</text>
+  <g transform="translate(72 278)">
+    <rect width="218" height="112" rx="16" fill="#FFFFFF" fill-opacity=".045" stroke="#FFFFFF" stroke-opacity=".10"/>
+    <circle cx="31" cy="34" r="17" fill="#7C3AED" fill-opacity=".2"/>
+    <text x="24" y="40" font-size="18">✦</text>
+    <text x="58" y="39" class="cardtitle">Thoughtful design</text>
+    <text x="20" y="75" class="cardsub">User flows · Prototypes</text>
+    <text x="20" y="95" class="cardsub">Accessible interfaces</text>
+  </g>
+  <g transform="translate(307 278)">
+    <rect width="218" height="112" rx="16" fill="#FFFFFF" fill-opacity=".045" stroke="#FFFFFF" stroke-opacity=".10"/>
+    <circle cx="31" cy="34" r="17" fill="#0EA5E9" fill-opacity=".2"/>
+    <text x="22" y="40" font-size="17" fill="#7DD3FC">&lt;/&gt;</text>
+    <text x="58" y="39" class="cardtitle">Front-end craft</text>
+    <text x="20" y="75" class="cardsub">React · Next.js · TypeScript</text>
+    <text x="20" y="95" class="cardsub">Responsive by default</text>
+  </g>
+  <g transform="translate(542 278)">
+    <rect width="218" height="112" rx="16" fill="#FFFFFF" fill-opacity=".045" stroke="#FFFFFF" stroke-opacity=".10"/>
+    <circle cx="31" cy="34" r="17" fill="#EC4899" fill-opacity=".18"/>
+    <text x="23" y="41" font-size="18">♡</text>
+    <text x="58" y="39" class="cardtitle">Always curious</text>
+    <text x="20" y="75" class="cardsub">Usability · Accessibility</text>
+    <text x="20" y="95" class="cardsub">Learning by building</text>
+  </g>
+  <g transform="translate(777 278)">
+    <rect width="231" height="112" rx="16" fill="#FFFFFF" fill-opacity=".045" stroke="#FFFFFF" stroke-opacity=".10"/>
+    <circle cx="31" cy="34" r="17" fill="#14B8A6" fill-opacity=".18"/>
+    <text x="23" y="40" font-size="17">↗</text>
+    <text x="58" y="39" class="cardtitle">Based in Indonesia</text>
+    <text x="20" y="75" class="cardsub">Batam · Open to ideas</text>
+    <text x="20" y="95" class="cardsub">Design with intention</text>
+  </g>
+  <rect class="shine" x="72" y="425" width="936" height="1" fill="url(#line)"/>
+  <text x="72" y="445" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8D88A7">DESIGN</text>
+  <circle cx="126" cy="441" r="2" fill="#7C3AED"/>
+  <text x="139" y="445" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8D88A7">BUILD</text>
+  <circle cx="187" cy="441" r="2" fill="#38BDF8"/>
+  <text x="200" y="445" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8D88A7">KEEP LEARNING</text>
+</svg>

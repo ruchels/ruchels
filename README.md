@@ -20,15 +20,11 @@
 
 <img src="assets/dividers/spectrum.svg" width="100%" alt="" />
 
-## About Me
+<div align="center">
+  <img src="assets/banners/about-me.svg" width="100%" alt="About Ruchel: an IT student blending thoughtful user-centered design, front-end development, accessibility, and continuous learning." />
+</div>
 
 I am an Information Technology student at **Universitas Internasional Batam** who blends **user-centered design**, front-end development, and practical problem solving. My work starts with understanding people and ends with polished interfaces that are accessible, consistent, and easy to use.
-
-* 🎨 Designing responsive interfaces and cohesive visual systems
-* 🧩 Turning requirements into clear user flows and prototypes
-* 💻 Building prototypes with React, Next.js, HTML, CSS, and JavaScript
-* ♿ Interested in accessibility, usability, and responsive design
-* 🚀 Continuously learning through real-world products and open-source experiments
 
 ## UI/UX Toolkit
 
