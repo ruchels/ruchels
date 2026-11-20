@@ -160,7 +160,7 @@ Explores dynamic prompting, project context parsing, structured LLM streaming, a
 
 ***
 
-### 📋 [Sipalarus (BAP Online)](https://sipalarus.com) — Administrative Workflow System
+### 📋 [Sipalarus (BAP Online)](https://bap-online-inteldakimtpi.vercel.app) — Administrative Workflow System
 
 > Digital administrative workflow engine for automated registration numbering, status tracking, notifications, and public records.
 
