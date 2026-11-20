@@ -107,6 +107,23 @@ I am an Information Technology student at **Universitas Internasional Batam** wi
 
 ## Featured Projects
 
+### 🎬 [Raizels](https://github.com/ruchels/raizels) — Cinematic 3D Developer Portfolio
+> **Featured Experience** · Immersive 3D & Scroll-Driven Cinematic Developer Portfolio
+
+A next-generation personal portfolio built with Next.js 16, React 19, GSAP ScrollTrigger, and Spline 3D:
+- **Interactive VS Code Intro**: Seamless perspective unfolding from an IDE window into fullscreen desktop canvas with Apple-inspired Spotlight (⌘K).
+- **Cinematic Storytelling & Spline 3D**: Chapter-by-chapter scroll choreography, origami fold transitions, and interactive 3D hero scene.
+- **Hardware-Accelerated Engineering**: 60-120 FPS fluid scroll using Lenis smooth-scroll, GPU-optimized WebP textures, and dynamic chunk splitting.
+- **Offensive Security & AI Showcase**: Integrated live displays for Raizel AI, BAP Online, and security competition milestones.
+
+- **Role:** Sole Architect, Creative Developer & Motion Designer  
+- **Stack:** Next.js 16 (App Router) · React 19 · TypeScript · GSAP · Spline 3D · Framer Motion · Tailwind CSS v4 · Lenis
+
+[![Repository](https://img.shields.io/badge/GITHUB-RAIZELS-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruchels/raizels)
+[![Status](https://img.shields.io/badge/PRODUCTION-OPTIMIZED-34D399?style=for-the-badge)](https://github.com/ruchels/raizels)
+
+---
+
 ### 🛡️ [CyberLab-ID](https://github.com/ruchels/cyberlab-id) — Cybersecurity Education & SOC Platform
 
 > **Flagship Project** · Bilingual Cybersecurity Learning Platform, Cyber Range & SOC Defense Simulator
